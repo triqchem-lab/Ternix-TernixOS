@@ -1,4 +1,4 @@
-# Ternix-TernixOS
+# TernixOS
 
 Ternix（TritOS）探索三进制与 Unix 风格系统的结合。这里先把项目中的代数设想整理为可检验的数学基础；它们是研究方向，不代表内核或相关功能已经实现。
 
